@@ -42,6 +42,8 @@ The user can enable and disable the face recognition by clicking the application
 
 The user can capture the face in the camera by clicking on the window and pressing 'r' on the keyboard. the user will be prompted to enter a name which must not match any of the names in the list that will be displayed.
 
+<img width="816" alt="capture2" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/8fafcf35-4070-4039-8eaf-f56c43430f5f">
+
 The program terminates by pressing 'q' or by closing the window
 
 
