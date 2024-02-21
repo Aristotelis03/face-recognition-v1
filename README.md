@@ -11,6 +11,7 @@ This is a complete guide on how to set up and use face-recognition-v1.
 
 ### Instalation
 To use this application, the installation of the libraries [OpenCV](https://pypi.org/project/opencv-python/) and [face-recognition](https://pypi.org/project/face-recognition/) is necessary.
+
 The following commands install the libraries.
 ```
 pip install --upgrade pip
