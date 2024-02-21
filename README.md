@@ -9,15 +9,13 @@ A tool designed to detect faces in real-time using the face-recognition and Open
 <img width="475" alt="Sample" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/af9e2564-7d3e-40b6-85d0-0ff051eb7351">
 
 ### Data
-The image_encoding.py besides of creating the face_encodings.npy file can also return the names and the encodings
+The image_encoding.py script, in addition to creating the the face_encodings.npy file, can also return the names and the encodings using the following arguments. This helps te user keep track of their input.
 ```
 python image_encodings --encodings
 python image_encodings --names
 ```
 
-
 ### Capturing Faces While Using the Application
-<img width="816" alt="capture2" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/8fafcf35-4070-4039-8eaf-f56c43430f5f">
 
 
 ## User Instructions
@@ -49,8 +47,6 @@ python main.py
 The user can enable and disable the face recognition by clicking the application's window and pressing 'f' on the keyboard. If the image of the person in the camera was not in the image folder before running image_encodings, the displayed text will be 'Unknown'.
 
 The user can capture the face in the camera by clicking on the window and pressing 'r' on the keyboard. the user will be prompted to enter a name which must not match any of the names in the list that will be displayed.
-
-<img width="816" alt="capture2" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/8fafcf35-4070-4039-8eaf-f56c43430f5f">
 
 The program terminates by pressing 'q' or by closing the window
 
