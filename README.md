@@ -16,6 +16,8 @@ python image_encodings --names
 ```
 
 ### Capturing Faces While Using the Application
+The face-recognition-v1 is capable of capturing faces in real-time as it's being used.
+<img width="475" alt="Capture3" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/e4db1d26-05d2-4494-93e1-c2eb694b41a2">
 
 
 ## User Instructions
