@@ -9,7 +9,7 @@ The face-recognition-v1 is a Python-based tool designed to detect faces in real-
 <img width="475" alt="Sample" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/af9e2564-7d3e-40b6-85d0-0ff051eb7351">
 
 ### Data
-The image_encoding.py script, in addition to creating the the face_encodings.npy file, can also return the names and the encodings using the following arguments. This helps te user keep track of their input.
+The image_encoding.py script, in addition to creating the the face_encodings.npy file, can also return the names and the encodings using the following arguments. This helps the user keep track of their input.
 ```
 python image_encodings --encodings
 python image_encodings --names
@@ -35,9 +35,9 @@ pip install face_recognition
 ```
 
 ### Images and encodings 
-The first step is to add some faces to the Images folder. There are already some samples in this folder. The user can add their face in this folder or capture it later when the project is running.
+The first step is to add some faces to the images folder. There are already some samples in this directory. The user can add their face in this folder or capture it later when the project is running.
 
-The following command rewrites the encodings and the names in the face_encodings.npy file based on the files in the Image folder.
+The following command rewrites the encodings and the names in the face_encodings.npy file based on the files in the images folder.
 ```
 python image_encodings.py
 ```
