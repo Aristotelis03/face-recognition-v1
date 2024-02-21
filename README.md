@@ -32,9 +32,11 @@ After the creation of the face_encodings.py file, the face-recognition-v1 is rea
 python main.py
 ```
 ### Usage 
-The user can enable and disable the face recognition by clicking the application's window and pressing the 'f' on the keyboard. If the image of the person in the camera was not in the image folder before running image_encodings, the displayed text will be 'Unknown'.
+The user can enable and disable the face recognition by clicking the application's window and pressing 'f' on the keyboard. If the image of the person in the camera was not in the image folder before running image_encodings, the displayed text will be 'Unknown'.
 
-The user can capture the face in the camera by clicking on the window and pressing the 'r' on the keyboard.. the user will be prompted to enter a name which must not match any of the names in the list that will be displayed.
+The user can capture the face in the camera by clicking on the window and pressing 'r' on the keyboard. the user will be prompted to enter a name which must not match any of the names in the list that will be displayed.
+
+The program terminates by pressing 'q' or by closing the window
 
 
 ## Acknowledgments
