@@ -7,7 +7,7 @@ A tool designed to detect faces in real-time using the face-recognition and Open
 ## Features
 
 ## User Instructions
-To use this application the instalation of the libraries [OpenCV](https://pypi.org/project/opencv-python/) and [face-recognition]https://pypi.org/project/face-recognition/
+To use this application the instalation of the libraries [OpenCV](https://pypi.org/project/opencv-python/) and [face-recognition](https://pypi.org/project/face-recognition/)
 ### Instalation
 The following commants are used to install the necessary libraries
 
