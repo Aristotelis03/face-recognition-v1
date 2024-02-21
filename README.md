@@ -51,7 +51,7 @@ python main.py
 
 * The user can capture the face in the camera by clicking on the window and pressing 'r' on the keyboard. The user will be prompted to enter a name which must not match any of the names in the list that will be displayed.
 
-* The program terminates by pressing 'q' or by closing the window
+* The program terminates by pressing 'q' or by closing the window.
 
 
 ## Acknowledgments
