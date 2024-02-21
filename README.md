@@ -55,4 +55,4 @@ The program terminates by pressing 'q' or by closing the window
 
 
 ## Acknowledgments
-This project implements some ideas from [Face Recognition In Real-Time With OpenCV And Python](https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/)
+This project integrates ideas from [Face Recognition In Real-Time With OpenCV And Python](https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/)
