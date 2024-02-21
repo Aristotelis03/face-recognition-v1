@@ -7,6 +7,7 @@ A tool designed to detect faces in real-time using the face-recognition and Open
 ## Features
 ### Face Recognition
 <img width="475" alt="Sample" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/af9e2564-7d3e-40b6-85d0-0ff051eb7351">
+
 ### Capturing Faces While Using the Application
 <img width="816" alt="capture2" src="https://github.com/Aristotelis03/face-recognition-v1/assets/122119588/8fafcf35-4070-4039-8eaf-f56c43430f5f">
 
