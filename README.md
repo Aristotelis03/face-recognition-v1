@@ -9,20 +9,27 @@ A tool designed to detect faces in real-time using the face-recognition and Open
 ## User Instructions
 To use this application the instalation of the libraries [OpenCV](https://pypi.org/project/opencv-python/) and [face-recognition](https://pypi.org/project/face-recognition/)
 ### Instalation
-The following commants are used to install the necessary libraries
-
+The following commands are used to install the necessary libraries
 ```
 pip install --upgrade pip
 pip install opencv-python
 pip install face_recognition
 ```
 
+### Images and encodings 
+The first step is to add some faces to the Images folder. There are already some samples in this folder. The user can add their face in this folder or capture it later when the project is running.
 
+The following command rewrites the encodings and the names in the face_encodings.npy file based on the files in the Image folder.
+```
+python image_encodings.py
+```
+### Execution
+After the creation of the face_encodings.py file, the face-recognition-v1 is ready to use.
+```
+python main.py
+```
 
 ## Acknowledgments
 This project implements some ideas from [Face Recognition In Real-Time With OpenCV And Python](https://pysource.com/2021/08/16/face-recognition-in-real-time-with-opencv-and-python/)
-
-
-
 
 ## Isues
